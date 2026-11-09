@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Su! 👋
 
-<!--
-**sulovewai19/sulovewai19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at UC San Diego interested in
+finance, data analytics, and technology.
 
-Here are some ideas to get you started:
+## 💼 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A short introduction about my background.
+
+## 🛠️ Technical Skills
+
+- Python
+- SQL
+- Excel
+- Tableau
+
+## 🚀 Featured Projects
+
+### OrganRoute SD
+An AI-powered transportation decision-support app.
+
+### Financial Analytics Dashboard
+A project analyzing financial performance.
+
+## 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/su-love-wai-820146233/)
